@@ -1,0 +1,6 @@
+{
+  "name": "ExoStream",
+  "description": "Media3 ExoPlayer video player with Room watch progress persistence, HLS/DASH/MP4 streaming, SAF file picker, and anime streaming catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
